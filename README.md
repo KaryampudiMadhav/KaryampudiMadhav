@@ -19,7 +19,13 @@ Passionate about learning cutting-edge technologies and delivering clean, scalab
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html)
+
 
 ---
 
@@ -30,9 +36,9 @@ Passionate about learning cutting-edge technologies and delivering clean, scalab
 ---
 
 ## 📂 Featured Projects
-- **YouTube Clone** — React + YouTube API for video browsing.  
+- **Chat Application** — MERN + Socket.io
 - **Energy Prediction Model** — ML regression model for energy usage.  
-- **Rock-Paper-Scissors Game** — Fun JavaScript game with simple UI.  
+- **Inngest Study Hub With Gemini 1.5 Pro  — MERN + INNGEST AGENT.  
 
 *(Find more on my [repositories](https://github.com/KaryampudiMadhav?tab=repositories))*
 
