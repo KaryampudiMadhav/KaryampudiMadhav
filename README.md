@@ -5,6 +5,8 @@ I specialize in building **full-stack applications** and integrating **AI soluti
 Passionate about learning cutting-edge technologies and delivering clean, scalable solutions.
 
 ---
+My live projects 
+https://mern-chat-app-mf99.onrender.com
 
 ## 🛠 Tech Stack
 <!-- Badges -->
