@@ -5,7 +5,7 @@ I specialize in building **full-stack applications** and integrating **AI soluti
 Passionate about learning cutting-edge technologies and delivering clean, scalable solutions.
 
 ---
-My live projects 
+My live projects  
 https://mern-chat-app-mf99.onrender.com
 
 ## 🛠 Tech Stack
@@ -27,19 +27,32 @@ https://mern-chat-app-mf99.onrender.com
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html)
 
-
 ---
 
 ## 📊 GitHub Stats
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact&theme=default)  
+
+<div align="center">
+
+<!-- Animated Stats Card -->
+![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=KaryampudiMadhav&theme=tokyonight&hide_border=true&border_radius=12)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+
+<!-- Activity Graph -->
+![Madhav's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
 ## 📂 Featured Projects
-- **Chat Application** — MERN + Socket.io
-- **Energy Prediction Model** — ML regression model for energy usage.  
-- **Inngest Study Hub With Gemini 1.5 Pro  — MERN + INNGEST AGENT.  
+- **Chat Application** — MERN + Socket.io  
+- **Energy Prediction Model** — ML regression model for energy usage  
+- **Inngest Study Hub With Gemini 1.5 Pro** — MERN + INNGEST AGENT  
 
 *(Find more on my [repositories](https://github.com/KaryampudiMadhav?tab=repositories))*
 
