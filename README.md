@@ -5,8 +5,15 @@ I specialize in building **full-stack applications** and integrating **AI soluti
 Passionate about learning cutting-edge technologies and delivering clean, scalable solutions.
 
 ---
+
+My Portfolio
+https://portfolio-next-7cmd03mrl-karyampudimadhav-2850s-projects.vercel.app/
+
+---
 My live projects  
 https://mern-chat-app-mf99.onrender.com
+
+
 
 ## 🛠 Tech Stack
 <!-- Badges -->
