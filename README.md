@@ -7,7 +7,7 @@ Passionate about learning cutting-edge technologies and delivering clean, scalab
 ---
 
 My Portfolio
-https://portfolio-next-7cmd03mrl-karyampudimadhav-2850s-projects.vercel.app/
+https://portfolio-next-beta-red.vercel.app/#projects
 
 ---
 My live projects  
