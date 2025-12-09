@@ -8,7 +8,7 @@ I build **full-stack MERN applications**, integrate **AI systems**, and love sol
 ## 🌐 Portfolio & Live Projects  
 🔗 **Portfolio:** https://portfolio-next-beta-red.vercel.app/#projects  
 🔗 **Live Chat App:** https://mern-chat-app-mf99.onrender.com  
-
+🔗 **Live Bus Tracking App:** https://real-time-bus-tracking-mern-rhxp6kyea.vercel.app/ 
 ---
 
 ## 🛠 Tech Stack
@@ -34,18 +34,14 @@ I build **full-stack MERN applications**, integrate **AI systems**, and love sol
 
 ## 📊 GitHub Stats
 
-<div align="center">
+### ⭐ GitHub Overview  
+![Stats](https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=radical&hide_border=true)
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="180" />
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=react-dark&hide_border=true&area=true" />
-
-</div>
+### 📈 Contribution Graph (Working!)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=react-dark&hide_border=true&area=true)
 
 ---
 
