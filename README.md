@@ -1,22 +1,18 @@
-# 👋 Hi, I'm Karyampudi Madhav
+# 👋 Hi, I'm **Karyampudi Madhav**
 **Full Stack Developer | AI & Machine Learning Enthusiast**
 
-I specialize in building **full-stack applications** and integrating **AI solutions** to solve real-world problems.  
-Passionate about learning cutting-edge technologies and delivering clean, scalable solutions.
+I build **full-stack MERN applications**, integrate **AI systems**, and love solving real-world problems with clean and scalable code.
 
 ---
 
-My Portfolio
-https://portfolio-next-beta-red.vercel.app/#projects
+## 🌐 Portfolio & Live Projects  
+🔗 **Portfolio:** https://portfolio-next-beta-red.vercel.app/#projects  
+🔗 **Live Chat App:** https://mern-chat-app-mf99.onrender.com  
 
 ---
-My live projects  
-https://mern-chat-app-mf99.onrender.com
-
-
 
 ## 🛠 Tech Stack
-<!-- Badges -->
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,11 +24,11 @@ https://mern-chat-app-mf99.onrender.com
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -40,33 +36,41 @@ https://mern-chat-app-mf99.onrender.com
 
 <div align="center">
 
-<!-- Animated Stats Card -->
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9)
-
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="180" />
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
 
-<!-- Activity Graph -->
-![Madhav's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=react-dark&hide_border=true&area=true)
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
 ---
 
 ## 📂 Featured Projects
-- **Chat Application** — MERN + Socket.io  
-- **Energy Prediction Model** — ML regression model for energy usage  
-- **Inngest Study Hub With Gemini 1.5 Pro** — MERN + INNGEST AGENT  
 
-*(Find more on my [repositories](https://github.com/KaryampudiMadhav?tab=repositories))*
+### 🔹 **MERN Chat Application (Socket.io)**
+Real-time chat functionality with user authentication.
+
+### 🔹 **Energy Prediction Model**
+ML regression system to predict energy consumption.
+
+### 🔹 **AI-Powered Study Hub (Inngest + Gemini 1.5 Pro)**
+Personalized study recommendations using advanced AI agents.
+
+➡ Explore more here: **https://github.com/KaryampudiMadhav?tab=repositories**
 
 ---
 
 ## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/madhav-karyampudi-957a012b9/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:karyampudimadhav@gamil.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:karyampudimadhav@gamil.com)
 
 ---
 
-> “Clean code is not just about syntax, it’s about clarity, simplicity, and purpose.”
+### ✨ Quote  
+> “Clean code is not just about syntax — it’s about clarity, simplicity, and purpose.”
+
