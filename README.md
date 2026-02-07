@@ -70,39 +70,30 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaryampudiMadhav&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=tokyonight&rank_icon=github&display_format=github" alt="KaryampudiMadhav's GitHub stats" />
-</p>
-
-## 🔝 Top Contributed Repositories
-
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaryampudiMadhav&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
        <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/YuganthaAI&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=YuganthaAI&theme=tokyonight&show_owner=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/REAL_TIME_BUS_TRACKING_MERN&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=REAL_TIME_BUS_TRACKING_MERN&theme=tokyonight&show_owner=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/DentAssistantUsingNext&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=DentAssistantUsingNext&theme=tokyonight&show_owner=true" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/SocialMediaApplicationNEXT.JS&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=SocialMediaApplicationNEXT.JS&theme=tokyonight&show_owner=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/GraphQl-Project-expenseTracker&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=GraphQl-Project-expenseTracker&theme=tokyonight&show_owner=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=mern-chat-app&theme=tokyonight&show_owner=true" />
       </td>
     </tr>
   </table>
