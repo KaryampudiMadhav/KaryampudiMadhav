@@ -71,43 +71,13 @@
 </p>
 
 ## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=YuganthaAI&theme=tokyonight&show_owner=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=REAL_TIME_BUS_TRACKING_MERN&theme=tokyonight&show_owner=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=DentAssistantUsingNext&theme=tokyonight&show_owner=true" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=SocialMediaApplicationNEXT.JS&theme=tokyonight&show_owner=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=GraphQl-Project-expenseTracker&theme=tokyonight&show_owner=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=mern-chat-app&theme=tokyonight&show_owner=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+<div align="center"> <table border="0" cellspacing="0" cellpadding="5"> <tr> <td> <a href="https://github.com/KaryampudiMadhav/YuganthaAI"> <img src="https://img.shields.io/badge/YuganthaAI-Grade%20A%2B-00F7FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b27" /> </a> </td> <td> <a href="https://github.com/KaryampudiMadhav/REAL_TIME_BUS_TRACKING_MERN"> <img src="https://img.shields.io/badge/Bus%20Tracking-Grade%20A-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1b27" /> </a> </td> </tr> <tr> <td> <a href="https://github.com/KaryampudiMadhav/DentAssistantUsingNext"> <img src="https://img.shields.io/badge/DentAssistant-Grade%20A-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1b27" /> </a> </td> <td> <a href="https://github.com/KaryampudiMadhav/SocialMediaApplicationNEXT.JS"> <img src="https://img.shields.io/badge/Social%20App-Grade%20B%2B-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27" /> </a> </td> </tr> <tr> <td colspan="2" align="center"> <a href="https://github.com/KaryampudiMadhav/GraphQl-Project-expenseTracker"> <img src="https://img.shields.io/badge/Expense%20Tracker-Grade%20B-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1b27" /> </a> </td> </tr> </table> </div>
 ---
 
 ### 🚀 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=tokyonight)
 
 ---
-
-### 🚀 Activity Heatmap
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=tokyonight)
 
 ## 🧮 Productivity Metrics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaryampudiMadhav&theme=tokyonight" />
