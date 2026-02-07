@@ -64,20 +64,12 @@
 
 # 📊 GitHub Performance Dashboard
 
-## ⭐ Core Stats
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact)
 
-## 🔥 Most Used Languages
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact&theme=tokyonight&hide_border=true" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav)
 
----
-
-## 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=tokyo-night&hide_border=true&area=true" />
-
----
 
 ## 🧮 Productivity Metrics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaryampudiMadhav&theme=tokyonight" />
