@@ -76,26 +76,42 @@
 
 ## 🔝 Top Contributed Repositories
 
+## 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaryampudiMadhav&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+## 🔝 Top Contributed Repositories
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=real-time-bus-tracking-mern&theme=tokyonight" />
+       <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/YuganthaAI&theme=tokyonight&show_owner=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=mern-chat-app&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/REAL_TIME_BUS_TRACKING_MERN&theme=tokyonight&show_owner=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/DentAssistantUsingNext&theme=tokyonight&show_owner=true" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=AI-Study-Hub&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/SocialMediaApplicationNEXT.JS&theme=tokyonight&show_owner=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=energy-consumption-prediction&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=https://github.com/KaryampudiMadhav/GraphQl-Project-expenseTracker&theme=tokyonight&show_owner=true" />
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+### 🚀 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=tokyonight)
 
 ---
 
