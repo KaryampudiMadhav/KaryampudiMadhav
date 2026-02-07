@@ -64,12 +64,43 @@
 
 # 📊 GitHub Performance Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true)
+## 📈 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaryampudiMadhav&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaryampudiMadhav&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaryampudiMadhav&show_icons=true&theme=tokyonight&rank_icon=github&display_format=github" alt="KaryampudiMadhav's GitHub stats" />
+</p>
 
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=real-time-bus-tracking-mern&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=mern-chat-app&theme=tokyonight" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=AI-Study-Hub&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaryampudiMadhav&repo=energy-consumption-prediction&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🚀 Activity Heatmap
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaryampudiMadhav&theme=tokyonight)
 
 ## 🧮 Productivity Metrics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaryampudiMadhav&theme=tokyonight" />
